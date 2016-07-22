@@ -1,5 +1,5 @@
 #STM32CubeMX to Makefile
-###Набор утилит для создания Makefila`a из проекта STM CubeMX
+###Набор утилит для создания Makefile`a из проекта STM CubeMX
 
 Установка:
 * Установите ARM-GCC-NONE-EABI (https://launchpad.net/gcc-arm-embedded/+download)
