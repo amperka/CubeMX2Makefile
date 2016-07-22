@@ -103,7 +103,7 @@ $$(BUILD_DIR):
 # flash use ST-Link
 #######################################
 flash:
-        st-link_cli -P $$(BUILD_DIR)/$$(TARGET).bin 0x08000000 -Rst
+	st-link_cli -P $$(BUILD_DIR)/$$(TARGET).bin 0x08000000 -Rst
 
 #######################################
 # clean up
