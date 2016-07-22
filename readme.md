@@ -2,7 +2,7 @@
 ###Набор утилит для создания Makefile`a из проекта STM CubeMX
 
 ## Установка
-* Скачайте или клонируйте (git clone https://github.com/amperka/CubeMX2Makefile) это репозитарий в такую папку, чтобы она не содержала кирилицы и скобок. Иначе утилита make не будет работать.
+* Скачайте или клонируйте (git clone https://github.com/amperka/CubeMX2Makefile). [b]это репозитарий в такую папку, чтобы она не содержала кирилицы и скобок. Иначе утилита make не будет работать[/b].
 * Установите ARM-GCC-NONE-EABI (https://launchpad.net/gcc-arm-embedded/+download)
 * Установите Python 2.7.x (https://www.python.org/download/releases/2.7/)
 * Установите STLink Util для поддержки прошивки (если используете ST-Link)
