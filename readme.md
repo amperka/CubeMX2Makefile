@@ -5,7 +5,7 @@
 * Установите ARM-GCC-NONE-EABI (https://launchpad.net/gcc-arm-embedded/+download)
 * Установите Python 2.7.x (https://www.python.org/download/releases/2.7/)
 * Установите STLink Util для поддержки прошивки (если используете ST-Link)
-* Клонируйте (git clone git@github.com:amperka/CubeMX2Makefile.git) или загрузите этот репозиторий. Важно! Утилита make откажется работать, если находится в папке, путь до которой содержит скобки (из C:\Program Files (x86)\CubeMX2Makefile - работать не будет)
+* Клонируйте (git clone https://github.com/amperka/CubeMX2Makefile) или загрузите этот репозиторий. Важно! Утилита make откажется работать, если находится в папке, путь до которой содержит скобки (из C:\Program Files (x86)\CubeMX2Makefile - работать не будет)
 * Добавьте в переменную PATH пути к бинарным файлам GCC, Python, STLink Util и копии этого репозитария (Мой компьютер->Свойства->Дополнительные параметры системы->Переменные среды->Переменная PATH)
 
 PS. Для пользователей Linux дистрибутивов необходимо выполнить только пункты 1 и 4. Поддержка st-flash не реализована.
